@@ -8,16 +8,12 @@ const workoutSchema = new Schema({
     trim: true,
     required: "Enter a name for workout"
   },
-  value: {
-    type: Number,
-    required: "Enter an amount"
-  },
   date: {
     type: Date,
     default: Date.now
   }
 });
 
-const Workout = mongoose.model("Workout", transactionSchema);
+const Workout = mongoose.model("Workout", workoutSchema);
 
 module.exports = Workout;
