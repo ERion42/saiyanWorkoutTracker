@@ -29,7 +29,8 @@ npm i
 
 ## Usage
 
-After running `npm i` just type `npm start`. 
+
+(Image)[https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker1.png?raw=true]
 
 
   
