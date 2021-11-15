@@ -29,18 +29,32 @@ npm i
 
 ## Usage
 
+Direct your browser to `https://saiyan-workout-tracker.herokuapp.com/` and the rest is pretty self-explanatory. Follow the easy-to-understand prompts to either continue your last workout or add a new one. 
 
-(Image)[https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker1.png?raw=true]
+![Landing Page](https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker1.png?raw=true)
 
+No matter what you choose, you'll be able to add either a new cardio or resistance training set to the selected workout. Once you've added the data, click "Add Exercise" to add the exercise to the workout. When you're done adding exercises, click "complete" to go back to the landing page. 
 
+![Add Exercise 1](https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker2.png?raw=true)
+
+![Add Exercise 2](https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker3.png?raw=true)
+
+![Add Exercise 3](https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker4.png?raw=true)
+
+If you'd like to see your stats for the week, click on "Dashboard" and review those gains!
+
+![Workout Dashboard](https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker5.png?raw=true)
+
+Below is a short video to walk you through the usage of the program:
+[Video](https://youtu.be/wGrpQ67Uqjk  )
   
 ## Contributing
 
-Just email me with constructive criticisms.
+Just email me with constructive criticisms - ericrion3000@gmail.com 
+
+I'm interested in improving this app and will be doing so as soon as I have the time to do so. The things I can think of first are all aesthetic, though, so I welcome any suggestions on functionality updates.
 
 ## Tests
-
-To run tests, run the following command:
 
 ```
 none
