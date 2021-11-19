@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-Direct your browser to `https://saiyan-workout-tracker.herokuapp.com/` and the rest is pretty self-explanatory. Follow the easy-to-understand prompts to either continue your last workout or add a new one. 
+Direct your browser to `https://still-waters-41033.herokuapp.com/` and the rest is pretty self-explanatory. Follow the easy-to-understand prompts to either continue your last workout or add a new one. 
 
 ![Landing Page](https://github.com/ERion42/saiyanWorkoutTracker/blob/main/screenshots/Tracker1.png?raw=true)
 
